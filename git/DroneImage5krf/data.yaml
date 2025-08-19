@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Images-25-8- - v1 2022-08-26 9-36pm']
+
+roboflow:
+  workspace: main-1js2p
+  project: drone-icerc
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/main-1js2p/drone-icerc/dataset/2
